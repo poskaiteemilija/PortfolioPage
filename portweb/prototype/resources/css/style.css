@@ -1,0 +1,50 @@
+img{
+    filter: grayscale(100%);
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+#cont{
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+h1{
+    font-family: 'Myfont';
+    text-align: center;
+}
+
+#index-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#index-img img{
+    height: 20em;
+    width: 20em;
+    object-fit: cover;
+    margin: 2em;
+}
+
+.index-ab{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 40%;
+}
+
+.index-ab div{
+    padding-right: 2em;
+}
+
+.index-ab div p{
+    display: inline-block;
+}
