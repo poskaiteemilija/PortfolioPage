@@ -33,7 +33,7 @@ _look into continuous integration_
 1. **Create React components for each and/or component (in reference to the rough prototype) and unit tests for each component**
 2. Link the components together and perform an integration test
 3. Set up the downloadable PDF file in Django (_will also need a database_)
-4. Create a REST API to get the PDF file for React from Django
+4. ~~Create a REST API to get the PDF file for React from Django~~
 5. Set up contact button (_look into this_)
 6. Use a design framework (_chose fonts, framework and colorshceme_) for the website to give it a unified style and run non-functional unit tests on new features
 7. Run an Alpha test with users
