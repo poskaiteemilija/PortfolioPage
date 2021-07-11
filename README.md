@@ -3,7 +3,7 @@ A React webpage designed to serve as my portfolio as well as a platform to adver
 The purpose of this project is to:
 
 * Develop a portfolio and a platform for myself to gain connections and sell my services
-* Learn React and DJango as well as their integration
+* ~~Learn React and DJango as well as their integration~~
 * Have a project with which I can display my website programming skills
 * Create a base for future developments of the webpage for other possible ideas - blog, store
 
